@@ -1,0 +1,9 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/api/protected-resource": "pages/api/protected-resource.js",
+  "/": "pages/index.js",
+  "/api/logto/[action]": "pages/api/logto/[action].js",
+  "/api/logto/user-info": "pages/api/logto/user-info.js"
+}
