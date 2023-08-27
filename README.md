@@ -1,6 +1,6 @@
 This is a quick PoC made with a starter template for [Learn Next.js](https://nextjs.org/learn).
 
-It will demonstrate the basic user auth workflow using [Logto IdP solution](https://nextjs.org/learn).
+It will demonstrate the basic user auth workflow using [Logto IdP solution](https://logto.io).
 
 ## Steps to deploy the app
 
